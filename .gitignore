@@ -2,3 +2,10 @@
 node_modules
 /.svelte-kit
 /package
+/build
+.env
+.env.*
+!.env.example
+.tool-versions
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
